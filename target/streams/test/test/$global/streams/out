@@ -1,0 +1,21 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(chapter3.TreeTest, org.scalatest.tools.Framework$$anon$1@324e5043, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(chapter2.Chapter2Test, org.scalatest.tools.Framework$$anon$1@324e5043, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(chapter5.StreamTest, org.scalatest.tools.Framework$$anon$1@324e5043, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(chapter4.OptionTest, org.scalatest.tools.Framework$$anon$1@324e5043, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(chapter6.RNGTest, org.scalatest.tools.Framework$$anon$1@324e5043, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(chapter3.ListTest, org.scalatest.tools.Framework$$anon$1@324e5043, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mSummary for ScalaCheck not available.[0m
+[0m[[0minfo[0m] [0mScalaTest[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 1 second, 123 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 71[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 6, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 71, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0minfo[0m] [0mPassed: Total 71, Failed 0, Errors 0, Passed 71[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	chapter4.OptionTest[0m
+[0m[[0mdebug[0m] [0m	chapter3.ListTest[0m
+[0m[[0mdebug[0m] [0m	chapter5.StreamTest[0m
+[0m[[0mdebug[0m] [0m	chapter6.RNGTest[0m
+[0m[[0mdebug[0m] [0m	chapter2.Chapter2Test[0m
+[0m[[0mdebug[0m] [0m	chapter3.TreeTest[0m

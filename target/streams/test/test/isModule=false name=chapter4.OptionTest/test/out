@@ -1,0 +1,18 @@
+[0m[[0minfo[0m] [0m[32mOptionTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mmap[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be None for None[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be a valid Some for Some values[0m[0m
+[0m[[0minfo[0m] [0m[32mgetOrElse[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be the default value if None[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be the value inside Some[0m[0m
+[0m[[0minfo[0m] [0m[32mflatMap[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be None for None[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be a valid Some for Some values[0m[0m
+[0m[[0minfo[0m] [0m[32morElse[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be the default value if None[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be the value inside Some[0m[0m
+[0m[[0minfo[0m] [0m[32mfilter[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be None if None[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be the value inside Some[0m[0m
+[0m[[0minfo[0m] [0m[32mvariance[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be None for empty Seq[0m[0m

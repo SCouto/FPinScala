@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m[32mChapter2Test:[0m[0m
+[0m[[0minfo[0m] [0m[32mFib[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be equals to the addition of the two previous fib or n if n < 2[0m[0m
+[0m[[0minfo[0m] [0m[32misSorted[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return true for empty arrays[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return true for one-element arrays[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return false for unsorted arrays and true for the same sorted arrays[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return true for any sorted arrays[0m[0m

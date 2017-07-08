@@ -1,0 +1,75 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/home/couto/workspace/FPinScala/src/test/scala/chapter3/ListTest.scala, /home/couto/workspace/FPinScala/src/test/scala/chapter6/RNGTest.scala, /home/couto/workspace/FPinScala/src/test/scala/chapter5/StreamTest.scala, /home/couto/workspace/FPinScala/src/test/scala/chapter4/OptionTest.scala, /home/couto/workspace/FPinScala/src/test/scala/chapter3/TreeTest.scala, /home/couto/workspace/FPinScala/src/test/scala/chapter2/Chapter2Test.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/couto/workspace/FPinScala/src/test/scala/chapter3/ListTest.scala, /home/couto/workspace/FPinScala/src/test/scala/chapter6/RNGTest.scala, /home/couto/workspace/FPinScala/src/test/scala/chapter5/StreamTest.scala, /home/couto/workspace/FPinScala/src/test/scala/chapter4/OptionTest.scala, /home/couto/workspace/FPinScala/src/test/scala/chapter3/TreeTest.scala, /home/couto/workspace/FPinScala/src/test/scala/chapter2/Chapter2Test.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/couto/workspace/FPinScala/src/test/scala/chapter3/ListTest.scala, /home/couto/workspace/FPinScala/src/test/scala/chapter6/RNGTest.scala, /home/couto/workspace/FPinScala/src/test/scala/chapter5/StreamTest.scala, /home/couto/workspace/FPinScala/src/test/scala/chapter4/OptionTest.scala, /home/couto/workspace/FPinScala/src/test/scala/chapter3/TreeTest.scala, /home/couto/workspace/FPinScala/src/test/scala/chapter2/Chapter2Test.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/couto/workspace/FPinScala/src/test/scala/chapter3/ListTest.scala, /home/couto/workspace/FPinScala/src/test/scala/chapter6/RNGTest.scala, /home/couto/workspace/FPinScala/src/test/scala/chapter5/StreamTest.scala, /home/couto/workspace/FPinScala/src/test/scala/chapter4/OptionTest.scala, /home/couto/workspace/FPinScala/src/test/scala/chapter3/TreeTest.scala, /home/couto/workspace/FPinScala/src/test/scala/chapter2/Chapter2Test.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 6 sources: invalidated sources (6) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 6 Scala sources to /home/couto/workspace/FPinScala/target/scala-2.12/test-classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.12.1[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.12.1[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 298ee94a, interfacing (CompilerInterface) with Scala compiler version 2.12.1[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/home/couto/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/couto/workspace/FPinScala/target/scala-2.12/test-classes:/home/couto/workspace/FPinScala/target/scala-2.12/classes:/home/couto/.ivy2/cache/org.scalactic/scalactic_2.12/bundles/scalactic_2.12-3.0.1.jar:/home/couto/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.1.jar:/home/couto/.ivy2/cache/junit/junit/jars/junit-4.10.jar:/home/couto/.ivy2/cache/org.hamcrest/hamcrest-core/jars/hamcrest-core-1.1.jar:/home/couto/.ivy2/cache/org.scalatest/scalatest_2.12/bundles/scalatest_2.12-3.0.1.jar:/home/couto/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/bundles/scala-xml_2.12-1.0.5.jar:/home/couto/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.12/bundles/scala-parser-combinators_2.12-1.0.4.jar:/home/couto/.ivy2/cache/org.scalacheck/scalacheck_2.12/jars/scalacheck_2.12-1.13.4.jar:/home/couto/.ivy2/cache/org.scala-sbt/test-interface/jars/test-interface-1.0.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 12.957584985 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/couto/workspace/FPinScala/src/test/scala/chapter5/StreamTest.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/couto/workspace/FPinScala/src/test/scala/chapter5/StreamTest.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/couto/workspace/FPinScala/src/test/scala/chapter5/StreamTest.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/couto/workspace/FPinScala/src/test/scala/chapter5/StreamTest.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/couto/workspace/FPinScala/src/test/scala/chapter5/StreamTest.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	convertToStringShouldWrapperForVerb, convertToStringCanWrapper, PropertyCheckConfig2PropertyCheckConfiguration, convertToAnyShouldWrapper, convertNumericToPlusOrMinusWrapper, convertToEqualizer, convertToInAndIgnoreMethodsAfterTaggedAs, shorthandSharedTestRegistrationFunction, generatorDrivenConfig, convertToRegexWrapper, unconstrainedEquality, convertToStringMustWrapperForVerb, convertToInAndIgnoreMethods, convertToStringShouldWrapper, convertSymbolToHavePropertyMatcherGenerator, shorthandTestRegistrationFunction.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/couto/workspace/FPinScala/src/test/scala/chapter3/TreeTest.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/couto/workspace/FPinScala/src/test/scala/chapter3/TreeTest.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/couto/workspace/FPinScala/src/test/scala/chapter3/TreeTest.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/couto/workspace/FPinScala/src/test/scala/chapter3/TreeTest.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/couto/workspace/FPinScala/src/test/scala/chapter3/TreeTest.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	convertToStringShouldWrapperForVerb, convertToStringCanWrapper, PropertyCheckConfig2PropertyCheckConfiguration, convertToAnyShouldWrapper, convertNumericToPlusOrMinusWrapper, convertToEqualizer, convertToInAndIgnoreMethodsAfterTaggedAs, shorthandSharedTestRegistrationFunction, generatorDrivenConfig, convertToRegexWrapper, unconstrainedEquality, convertToStringMustWrapperForVerb, convertToInAndIgnoreMethods, convertToStringShouldWrapper, convertSymbolToHavePropertyMatcherGenerator, shorthandTestRegistrationFunction.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/couto/workspace/FPinScala/src/test/scala/chapter2/Chapter2Test.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/couto/workspace/FPinScala/src/test/scala/chapter2/Chapter2Test.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/couto/workspace/FPinScala/src/test/scala/chapter2/Chapter2Test.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/couto/workspace/FPinScala/src/test/scala/chapter2/Chapter2Test.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/couto/workspace/FPinScala/src/test/scala/chapter2/Chapter2Test.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	convertToStringShouldWrapperForVerb, convertToStringCanWrapper, PropertyCheckConfig2PropertyCheckConfiguration, convertToAnyShouldWrapper, convertNumericToPlusOrMinusWrapper, convertToEqualizer, convertToInAndIgnoreMethodsAfterTaggedAs, shorthandSharedTestRegistrationFunction, generatorDrivenConfig, convertToRegexWrapper, unconstrainedEquality, convertToStringMustWrapperForVerb, convertToInAndIgnoreMethods, convertToStringShouldWrapper, convertSymbolToHavePropertyMatcherGenerator, shorthandTestRegistrationFunction.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/couto/workspace/FPinScala/src/test/scala/chapter6/RNGTest.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/couto/workspace/FPinScala/src/test/scala/chapter6/RNGTest.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/couto/workspace/FPinScala/src/test/scala/chapter6/RNGTest.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/couto/workspace/FPinScala/src/test/scala/chapter6/RNGTest.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/couto/workspace/FPinScala/src/test/scala/chapter6/RNGTest.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	convertToStringShouldWrapperForVerb, convertToStringCanWrapper, PropertyCheckConfig2PropertyCheckConfiguration, convertToAnyShouldWrapper, convertNumericToPlusOrMinusWrapper, convertToEqualizer, convertToInAndIgnoreMethodsAfterTaggedAs, shorthandSharedTestRegistrationFunction, generatorDrivenConfig, convertToRegexWrapper, unconstrainedEquality, convertToStringMustWrapperForVerb, convertToInAndIgnoreMethods, convertToStringShouldWrapper, convertSymbolToHavePropertyMatcherGenerator, shorthandTestRegistrationFunction.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/couto/workspace/FPinScala/src/test/scala/chapter4/OptionTest.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/couto/workspace/FPinScala/src/test/scala/chapter4/OptionTest.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/couto/workspace/FPinScala/src/test/scala/chapter4/OptionTest.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/couto/workspace/FPinScala/src/test/scala/chapter4/OptionTest.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/couto/workspace/FPinScala/src/test/scala/chapter4/OptionTest.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	convertToStringShouldWrapperForVerb, convertToStringCanWrapper, PropertyCheckConfig2PropertyCheckConfiguration, convertToAnyShouldWrapper, convertNumericToPlusOrMinusWrapper, convertToEqualizer, convertToInAndIgnoreMethodsAfterTaggedAs, shorthandSharedTestRegistrationFunction, generatorDrivenConfig, convertToRegexWrapper, unconstrainedEquality, convertToStringMustWrapperForVerb, convertToInAndIgnoreMethods, convertToStringShouldWrapper, convertSymbolToHavePropertyMatcherGenerator, shorthandTestRegistrationFunction.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/couto/workspace/FPinScala/src/test/scala/chapter3/ListTest.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/couto/workspace/FPinScala/src/test/scala/chapter3/ListTest.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/couto/workspace/FPinScala/src/test/scala/chapter3/ListTest.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/couto/workspace/FPinScala/src/test/scala/chapter3/ListTest.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/couto/workspace/FPinScala/src/test/scala/chapter3/ListTest.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	convertToStringShouldWrapperForVerb, convertToStringCanWrapper, PropertyCheckConfig2PropertyCheckConfiguration, convertToAnyShouldWrapper, convertNumericToPlusOrMinusWrapper, convertToEqualizer, convertToInAndIgnoreMethodsAfterTaggedAs, shorthandSharedTestRegistrationFunction, generatorDrivenConfig, convertToRegexWrapper, unconstrainedEquality, convertToStringMustWrapperForVerb, convertToInAndIgnoreMethods, convertToStringShouldWrapper, convertSymbolToHavePropertyMatcherGenerator, shorthandTestRegistrationFunction.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
